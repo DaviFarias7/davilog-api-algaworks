@@ -14,8 +14,6 @@ REST API de entrega de pedidos criada no evento "Mergulho Spring Rest" promovido
 - Implementando Collection Resource
 - Métodos e códigos de status HTTP
 - Content Negotiation
-- Estudo de caso: de Feirante a Especialista Spring REST
-- Estudo de caso: contratado após o ESR
 - Configurando o Flyway
 - Usando Jakarta Persistence (JPA)
 - Usando Spring Data JPA
